@@ -1,1 +1,1 @@
-# paypaymini-demo
+# paypay miniapplication demo
